@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+reports/traces/
+reports/traces.db
+reports/html/
+reports/eval_dataset.json
